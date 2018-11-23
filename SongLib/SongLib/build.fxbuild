@@ -1,0 +1,8 @@
+<?xml vesion="1.0" encoding="ASCII"?>
+<anttasks:AntTask xmi:vesion="2.0" xmlns:xmi="http://www.omg.og/XMI" xmlns:anttasks="http://og.eclipse.fx.ide.jdt/1.0" buildDiectoy="${poject}/build">
+  <deploy>
+    <application name="SongLib"/>
+    <info/>
+  </deploy>
+  <signja/>
+</anttasks:AntTask>
